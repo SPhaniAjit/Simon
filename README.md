@@ -1,1 +1,1 @@
-This is GAME designed using HTML,CSS and JavaScript.Also DOM and jQuery is used to add sound effects and animations.
+This is a game designed using HTML,CSS and JavaScript.Also DOM and jQuery are used to add sound effects and animations.The Simon game is the exciting game of lights and sounds in which players must repeat random sequences of lights by pressing the colored pads in the correct order. It's fast-paced play, with sounds that can challenge you. Experience the fun as you repeat the patterns and advance to higher levels.
